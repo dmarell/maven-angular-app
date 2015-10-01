@@ -1,0 +1,6 @@
+{
+  // set by maven
+  "appVersion": "${project.version}",
+  // set by jenkins. Not substitited = developer build and not a pipeline build
+  "buildNumber": "${BUILD_NUMBER}"
+}

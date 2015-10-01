@@ -1,0 +1,8 @@
+.idea
+*.iml
+src/main/webapp
+src/main/webapp_build
+src/main/webapp_src/etc
+src/main/webapp_src/node
+src/main/webapp_src/node_modules
+src/main/webapp_src/vendor
