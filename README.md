@@ -28,9 +28,5 @@ Run or debug and open `http://localhost:8080`.
 
 ## TODO
 
-Make Grunt Serve work. Currently it fails with:
-```
-Running "connect:livereload" (connect) task
-Warning: undefined is not a function Use --force to continue.
-```
-The problem may be entries referring to absent directories in Gruntfile.js.
+ - Cleanup Gruntfile.js
+ - Add css
